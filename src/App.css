@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+.App {
+  text-align: center;
+  font-weight: 200;
+  background-color: rgba(255, 255, 255, 0.399);
+  box-sizing: border-box;
+  
+}
+
+
+
+
+.AboutMe>p {
+  font-size: 11px;
+  text-align: justify;
+  word-spacing: .05em;
+}
+
+
+.About--Title {
+  margin-top: 50px;
+  padding: 100px 40px;
+}
+
+
+
+hr {
+  margin-left: 10%;
+  margin-right: 30px;
+}

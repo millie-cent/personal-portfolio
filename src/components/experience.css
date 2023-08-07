@@ -1,0 +1,36 @@
+#para1 {
+    padding-top: 30px;
+    width: 70%;
+  
+}
+#head1{
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 80;
+    text-decoration: underline;
+    text-decoration-color: bae9d9;
+    
+}
+.section2{
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 700px;
+   
+}
+
+#intro_exp{
+ 
+    align-items: center;
+    
+}
+
+.card {
+      position: sticky;
+      top: 1em;
+      padding: 1.5em;
+      border-radius: 1em;
+      background-color: red;
+    }
+
+  
+  
