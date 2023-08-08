@@ -1,9 +1,10 @@
 import React from "react";
 import { useState } from "react";
 import './Tabs.css';
-import ericsson from '/Users/millicentgyau/Desktop/JS_CFG/about_me/src/images/Ericsson.jpeg'
-import azure from '/Users/millicentgyau/Desktop/JS_CFG/about_me/src/images/AZURE.png'
-import apps from '/Users/millicentgyau/Desktop/JS_CFG/about_me/src/images/apps.png'
+import ericsson from '../images/Ericsson.jpeg'
+import azure from '../images/AZURE.png'
+import apps from '../images/apps.png'
+import { AzurePlain } from "devicons-react";
 export default function AllTabs(){
 
 

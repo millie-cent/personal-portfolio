@@ -1,6 +1,6 @@
 import React from 'react'
 import './experience.css'
-import AllTabs from './TabComponent/Tabs'
+import AllTabs from './Tabs'
 
 
 export default function experience() {
